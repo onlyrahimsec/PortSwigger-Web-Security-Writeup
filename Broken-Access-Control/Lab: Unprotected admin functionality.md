@@ -1,6 +1,7 @@
 
 # Lab: Unprotected admin functionality
 **Category:** Broken Access Control
+
 **Level:** Apprentice
 
 ##  Objective
