@@ -24,9 +24,11 @@ I copied that secret path, pasted it into my browser, and—boom—I was in the 
 ## Evidence
 
 **Step 1: Spotting the admin link in the JavaScript source**
+
 ![Admin Location Discovery](../Image/find%20the%20admin%20location.png)
 
 **Step 2: Successfully deleting the user**
+
 ![User Deleted](../Image/successfully%20delete%20the%20user.png)
 
 ## Why This Happens (And How to Fix It)
