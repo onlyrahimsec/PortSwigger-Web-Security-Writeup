@@ -12,4 +12,5 @@ The goal of this lab is to access the hidden administrative panel and delete the
 3. **Exploitation:** I navigated to that path and found a dashboard with user management privileges.
 4. **Action:** I clicked "Delete" on the user `carlos`.
 
-## PoW
+## Proof
+![Admin Panel Success](../Image/Unprotected%20admin%20functionality.png)
