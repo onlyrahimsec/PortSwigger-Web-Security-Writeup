@@ -1,4 +1,4 @@
-# Lab: Unprotected admin functionality with unpredictable URL
+# Lab 2 : Unprotected admin functionality with unpredictable URL
 
 **Category:** Broken Access Control
 **Level:** Apprentice (PortSwigger Academy)
