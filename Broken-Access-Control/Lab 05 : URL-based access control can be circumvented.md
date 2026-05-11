@@ -1,4 +1,4 @@
-# Lab 05: Bypassing Front-End Security with X-Original-URL
+# Lab 05: URL-based access control can be circumvented
 
 **Category:** Broken Access Control / Bypass
 
