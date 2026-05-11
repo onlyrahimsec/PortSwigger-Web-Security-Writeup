@@ -1,6 +1,7 @@
 # Lab 05: Bypassing Front-End Security with X-Original-URL
 
 **Category:** Broken Access Control / Bypass
+
 **Level:** Practitioner (PortSwigger Academy)
 
 ## The Challenge
@@ -44,7 +45,7 @@ This command bypassed the filter again and instructed the back-end to run the de
 ![Delete Request](../Image/delete%20the%20user.png)
 
 **Step 5: Lab Solved** Confirmation of the successful exploit.
-![Lab Solved](../Image/lab%20solved.jpg)
+![Lab Solved](../Image/lab%20solved.png)
 
 ## Why This Happens (And How to Fix It)
 This is a **discrepancy** between how different parts of a web stack interpret a request. The front-end thinks it’s safe because it only checks the primary URL, while the back-end trusts a non-standard header.
