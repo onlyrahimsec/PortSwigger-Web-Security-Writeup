@@ -1,6 +1,7 @@
 # Lab 03: Bypassing Admin Security by Changing a Cookie
 
 **Category:** Broken Access Control
+
 **Level:** Apprentice (PortSwigger Academy)
 
 ## The Challenge
